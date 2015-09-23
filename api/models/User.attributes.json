@@ -1,0 +1,1 @@
+{"attributes":{"First_Name":{"type":"text","unique":false,"required":true},"Last_Name":{"type":"string","unique":false,"required":true},"email":{"type":"string","unique":false,"required":true},"password":{"type":"string","unique":false,"required":true}},"globalId":"User","identity":"user"}

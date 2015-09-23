@@ -1,0 +1,13 @@
+{
+  "dependencies": {},
+  "machinepack": {
+    "machines": ["create_user", "destroy_user", "findOne_user", "find_user", "update_user"],
+    "machineVersions": {
+      "create_user": "0.0.5",
+      "destroy_user": "0.0.5",
+      "findOne_user": "0.0.5",
+      "find_user": "0.0.5",
+      "update_user": "0.0.5"
+    }
+  }
+}
